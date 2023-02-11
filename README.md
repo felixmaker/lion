@@ -2,6 +2,8 @@
 Lion is an easy-to-use pc software manager for windows users. It helps you manage software on your computer.
 It helps your download software easier.
 
+**STOP DEVELOPMENT: Choose [WingetUI](https://github.com/marticliment/WingetUI)! It just works!**
+
 First of all, I would like to say great thank you to all the project below! Without you, the lion software
 manager is impossible to achieve! Thank you!
 
